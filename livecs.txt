@@ -1,5 +1,0 @@
-📺测试频道,#genre# 
-影视剧场,https://raw.githubusercontent.com/yxcqr/Live/main/ys.m3u8
-177个直播源,https://raw.githubusercontent.com/yxcqr/Live/main/zb1.m3u8
-650个直播源,https://raw.githubusercontent.com/yxcqr/Live/main/zb2.m3u8
-央视-卫视-地方,https://raw.githubusercontent.com/yxcqr/Live/main/ysdf.m3u8
